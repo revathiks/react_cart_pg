@@ -1,0 +1,135 @@
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.page-header-bg {
+  background-color: #FFF;
+}
+body{
+background-color: #eeeded;
+}
+.footer {
+  color: #fdfdfd;
+  line-height: 40px;
+  background: url(assets/images/topo-bg.png) #44426a;
+  padding-top: 7px;
+  height: 50px;
+}
+.footer {
+  color: #fdfdfd;
+  line-height: 40px;
+}
+.footer_links {
+  color: #fff !important;
+  font-size: 13px;
+}
+
+.page-toppanel-bg {
+  background: url(assets/images/topo-bg.png) #44426a;
+  min-height: 45px;
+}
+h4.panel-title, .h4.panel-title {
+  font-size: 25px;
+  color: #fff;
+  line-height: 50px;
+  padding-left: 20px;
+  padding-right: 10px;
+  font-family: 'NunitoSans-Bold', sans-serif;
+}
+.register-form {
+  width: 690px !important;
+  margin: 0 auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background: none;
+ 
+  margin-bottom: 40px;
+}
+.login-form {
+  background-color: #5fd0df !important;
+  padding: 30px !important;
+  width: 500px;
+  margin: 0 auto;
+ /* text-align: center;*/
+  margin-top: 10px;
+  border-radius: 0px;
+}
+.login_btn {
+  position: relative;
+  overflow: hidden;
+  width: auto !important;
+  color: #fff !important;
+  margin: 0 auto;
+  border-radius: 0px !important;
+  z-index: 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: #44426a !important;
+  text-transform: uppercase;
+}
+.login-row .ef-wrapper {
+  height: 750px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.login-row{width:100%;}
+.ef-wrapper {
+  width: 100%;
+  float: left;
+  background: #5fd0df;
+}
+.login-row .left-cloud, .login-row .right-cloud {
+  width: 235px;
+}
+.left-cloud {
+  left: 0px;
+}
+.left-cloud, .right-cloud {
+  position: absolute;
+  top: 60px;
+  width: 250px;
+}
+.left-cloud img, .right-cloud img {
+  max-width: 100%;
+}
+.right-cloud {
+  right: -0px;
+}
+.login-btn-sec {
+  align-self: center;
+  max-width: 480px;
+  text-align: center;
+  padding: 0px 20px;
+}
+.login-btn-sec input {
+  width: 100%;
+  height: 75px;
+  float: left;
+  background: #F8E317;
+  font-size: 22px;
+  color: #231F20;
+  font-family: 'NunitoSans-Regular';
+  border: none;
+  outline: none;
+  text-align: center;
+  margin-bottom: 50px;
+}

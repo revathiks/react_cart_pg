@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": "6",
+      "catid": "3",
+      "code": "PROD06",
+      "name": "Trading Places",
+      "description": "Trading Places desc",
+      "price": "250",
+      "thumb": "trading_places.jpg"
+    },
+    {
+      "id": "5",
+      "catid": "2",
+      "code": "PROD05",
+      "name": "Think Link",
+      "description": "Think Link desc",
+      "price": "300",
+      "thumb": "think_link.jpg"
+    },
+    {
+      "id": "4",
+      "catid": "2",
+      "code": "PROD04",
+      "name": "Quick Flip",
+      "description": "Quick Flip desc",
+      "price": "250",
+      "thumb": "quickflip.jpg"
+    },
+    {
+      "id": "3",
+      "catid": "1",
+      "code": "PROD03",
+      "name": "Cloud 9",
+      "description": "Cloud 9 desc",
+      "price": "150",
+      "thumb": "cloud9.jpg"
+    },
+    {
+      "id": "2",
+      "catid": "1",
+      "code": "PROD02",
+      "name": "Wrap it up ",
+      "description": "Wrap it up desc",
+      "price": "200",
+      "thumb": "wrap-it-up.jpg"
+    },
+    {
+      "id": "1",
+      "catid": "1",
+      "code": "PROD01",
+      "name": "Toy Story ",
+      "description": "Toy Story desc",
+      "price": "100",
+      "thumb": "toy_story.jpg"
+    }
+  ]
+}
